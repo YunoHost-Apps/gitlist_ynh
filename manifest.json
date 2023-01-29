@@ -1,0 +1,44 @@
+{
+    "name": "GitList",
+    "id": "gitlist",
+    "packaging_format": 1,
+    "description": {
+        "en": "Elegant and modern git repository viewer",
+        "fr": "Visualiseur de référentiel git élégant et moderne"
+    },
+    "version": "2.0.0~ynh1",
+    "url": "https://gitlist.org/",
+    "upstream": {
+        "license": "free",
+        "website": "https://gitlist.org/",
+        "demo": "https://demo.example.com",
+        "admindoc": "https://github.com/klaussilveira/gitlist/wiki",
+        "code": "https://github.com/klaussilveira/gitlist"
+    },
+    "license": "free",
+    "maintainer": {
+        "name": "",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 11.0.9"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx",
+        "php8.1-fpm"
+    ],
+    "arguments": {
+        "install": [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
