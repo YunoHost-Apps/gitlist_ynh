@@ -1,0 +1,1 @@
+ Default Repository Directories: `/home/yunohost.app/gitlist`
