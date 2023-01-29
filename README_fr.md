@@ -30,8 +30,6 @@ GitList is an elegant and modern web interface for interacting with multiple git
 
 **Version incluse :** 2.0.0~ynh1
 
-**Démo :** https://demo.example.com
-
 ## Captures d’écran
 
 ![Capture d’écran de GitList](./doc/screenshots/screenshot.png)
