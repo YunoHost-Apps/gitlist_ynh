@@ -9,15 +9,14 @@
     "version": "2.0.0~ynh1",
     "url": "https://gitlist.org/",
     "upstream": {
-        "license": "free",
+        "license": "BSD 3-Clause",
         "website": "https://gitlist.org/",
-        "demo": "https://demo.example.com",
         "admindoc": "https://github.com/klaussilveira/gitlist/wiki",
         "code": "https://github.com/klaussilveira/gitlist"
     },
-    "license": "free",
+    "license": "BSD 3-Clause",
     "maintainer": {
-        "name": "",
+        "name": "eric_G",
         "email": ""
     },
     "requirements": {
@@ -38,6 +37,16 @@
                 "name": "is_public",
                 "type": "boolean",
                 "default": true
+            },
+            {
+                "name": "language",
+                "type": "string",
+                "ask": {
+                    "en": "Choose the application language",
+                    "fr": "Choisissez la langue de l'application"
+                },
+                "choices": ["fr", "en"],
+                "default": "fr"
             }
         ]
     }
