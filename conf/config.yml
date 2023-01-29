@@ -4,7 +4,7 @@ parameters:
   title: GitList
 
   # Locale configuration
-  locale: __LANGUAGE__
+  locale: en
 
   # Theme
   theme: default
