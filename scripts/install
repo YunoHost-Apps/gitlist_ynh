@@ -122,10 +122,10 @@ ynh_add_nginx_config
 ynh_script_progression --message="Adding a configuration file..." --weight=1
 
 ynh_add_config --template="../conf/config.yml" --destination="$final_path/config/config.yml"
-ynh_add_config --template="../conf/.env" --destination="$final_path/.env"
+ynh_add_config --template="../conf/.env" --destination="$final_path/public/.env"
 
-chmod 650 "$final_path/.env"
-chown $app:$app "$final_path/.env"
+chmod 650 "$final_path/public/.env.env"
+chown $app:$app "$final_path/public/.env.env"
 chmod 650 "$final_path/config/config.yml"
 chown $app:$app "$final_path/config/config.yml"
 
