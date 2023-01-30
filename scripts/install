@@ -27,6 +27,7 @@ ynh_abort_if_errors
 domain=$YNH_APP_ARG_DOMAIN
 path_url="/"
 is_public=$YNH_APP_ARG_IS_PUBLIC
+#key=$(ynh_string_random --length=32)
 
 app=$YNH_APP_INSTANCE_NAME
 
@@ -122,7 +123,7 @@ ynh_script_progression --message="Adding a configuration file..." --weight=1
 
 ynh_add_config --template="../conf/config.yml" --destination="$final_path/config/config.yml"
 
-chmod 400 "$final_path/config/config.yml"
+chmod 650 "$final_path/config/config.yml"
 chown $app:$app "$final_path/config/config.yml"
 
 #=================================================
