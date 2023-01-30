@@ -1,7 +1,7 @@
 # GitList configuration
 parameters:
   # Web application title
-  title: YunoHost
+  title: GitList
 
   # Locale configuration
   locale: en
