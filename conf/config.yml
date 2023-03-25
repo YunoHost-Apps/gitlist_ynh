@@ -19,7 +19,7 @@ parameters:
       target: https://github.com/klaussilveira/gitlist/issues
 
   # List of directories containing repositories
-  default_repository_dir: __DATADIR__
+  default_repository_dir: __DATA_DIR__
   repositories:
     - '%env(default:default_repository_dir:DEFAULT_REPOSITORY_DIR)%'
 
