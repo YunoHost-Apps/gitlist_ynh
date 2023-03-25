@@ -35,9 +35,6 @@ GitList is an elegant and modern web interface for interacting with multiple git
 
 ![Capture d’écran de GitList](./doc/screenshots/screenshot.png)
 
-## Avertissements / informations importantes
-
- Default Repository Directories: `__DATA_DIR__`
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://gitlist.org/>
