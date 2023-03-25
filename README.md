@@ -37,7 +37,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 
 ## Disclaimers / important information
 
- Default Repository Directories: `/home/yunohost.app/gitlist`
+ Default Repository Directories: `__DATA_DIR__`
 ## Documentation and resources
 
 * Official app website: <https://gitlist.org/>
