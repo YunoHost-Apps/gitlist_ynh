@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # GitList pour YunoHost
 
 [![Niveau d’intégration](https://dash.yunohost.org/integration/gitlist.svg)](https://dash.yunohost.org/appci/app/gitlist) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
+
 [![Installer GitList avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 
 *[Read this readme in english.](./README.md)*
