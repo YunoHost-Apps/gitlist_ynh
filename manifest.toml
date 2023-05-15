@@ -16,7 +16,7 @@ admindoc = "https://github.com/klaussilveira/gitlist/wiki"
 code = "https://github.com/klaussilveira/gitlist"
 
 [integration]
-yunohost = ">= 11.1.15"
+yunohost = ">= 11.1.19"
 architectures = "all"
 multi_instance = true
 ldap = false
