@@ -6,6 +6,7 @@ It shall NOT be edited by hand.
 # GitList for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/gitlist.svg)](https://dash.yunohost.org/appci/app/gitlist) ![Working status](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
+
 [![Install GitList with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -28,15 +29,12 @@ GitList is an elegant and modern web interface for interacting with multiple git
 - Repository statistics
 
 
-**Shipped version:** 2.0.0~ynh1
+**Shipped version:** 2.0.0~ynh2
 
 ## Screenshots
 
 ![Screenshot of GitList](./doc/screenshots/screenshot.png)
 
-## Disclaimers / important information
-
- Default Repository Directories: `/home/yunohost.app/gitlist`
 ## Documentation and resources
 
 * Official app website: <https://gitlist.org/>

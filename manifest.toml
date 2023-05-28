@@ -1,0 +1,54 @@
+packaging_format = 2
+
+id = "gitlist"
+name = "GitList"
+description.en = "Elegant and modern git repository viewer"
+description.fr = "Visualiseur de référentiel git élégant et moderne"
+
+version = "2.0.0~ynh2"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "BSD-3-Clause"
+website = "https://gitlist.org/"
+admindoc = "https://github.com/klaussilveira/gitlist/wiki"
+code = "https://github.com/klaussilveira/gitlist"
+
+[integration]
+yunohost = ">= 11.1.19"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "150M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+    full_domain = true
+
+    [install.init_main_permission]
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/klaussilveira/gitlist/releases/download/2.0.0/gitlist-2.0.0.zip"
+        sha256 = "06df38598c7e6f8ceb62e09efc0849960dc8f8e4a8a6f4719624c82e5a21fdf7"
+        in_subdir = false
+        autoupdate.strategy = "latest_github_tag"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.apt]
+    packages = "php8.1-fpm php8.1-dom git"
