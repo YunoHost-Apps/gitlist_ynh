@@ -5,7 +5,7 @@ name = "GitList"
 description.en = "Elegant and modern git repository viewer"
 description.fr = "Visualiseur de référentiel git élégant et moderne"
 
-version = "2.0.0~ynh2"
+version = "2.0.0~ynh3"
 
 maintainers = ["eric_G"]
 
