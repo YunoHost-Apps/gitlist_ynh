@@ -1,1 +1,1 @@
- Default Repository Directories: `__DATA_DIR__`
+Default Repository Directories: `__DATA_DIR__`
