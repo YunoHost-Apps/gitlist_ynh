@@ -16,20 +16,19 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-GitList is an elegant and modern web interface for interacting with multiple git repositories. It allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history, diffs. It also generates RSS/Atom feeds for each repository, allowing you to stay up-to-date with the latest changes anytime, anywhere.
+GitList est une interface Web élégante et moderne permettant d'interagir avec plusieurs référentiels git. Il vous permet de parcourir les référentiels à l'aide de votre navigateur préféré, d'afficher les fichiers sous différentes révisions, l'historique des validations, les différences. Il génère également des flux RSS/Atom pour chaque référentiel, vous permettant de rester au courant des dernières modifications à tout moment et en tout lieu.
 
-### Features
+### Caractéristiques
 
-- Multiple repository support
-- Multiple branch support
-- Multiple tag support
-- Commit history, blame, diff
-- RSS/Atom feeds
-- Syntax highlighting via CodeMirror or Ace
-- Repository statistics
+- Prise en charge de plusieurs référentiels
+- Prise en charge de plusieurs succursales
+- Prise en charge de plusieurs balises
+- Commit historique, blâme, différence
+- Flux RSS/Atom
+- Mise en évidence de la syntaxe via CodeMirror ou Ace
+- Statistiques du référentiel
 
-
-**Version incluse :** 2.0.0~ynh3
+**Version incluse :** 2.0.0~ynh4
 
 ## Captures d’écran
 
@@ -40,7 +39,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 * Site officiel de l’app : <https://gitlist.org/>
 * Documentation officielle de l’admin : <https://github.com/klaussilveira/gitlist/wiki>
 * Dépôt de code officiel de l’app : <https://github.com/klaussilveira/gitlist>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_gitlist>
+* YunoHost Store: <https://apps.yunohost.org/app/gitlist>
 * Signaler un bug : <https://github.com/YunoHost-Apps/gitlist_ynh/issues>
 
 ## Informations pour les développeurs
