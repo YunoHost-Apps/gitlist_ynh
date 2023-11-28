@@ -29,7 +29,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 - Repository statistics
 
 
-**Shipped version:** 2.0.0~ynh3
+**Shipped version:** 2.0.0~ynh4
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 * Official app website: <https://gitlist.org/>
 * Official admin documentation: <https://github.com/klaussilveira/gitlist/wiki>
 * Upstream app code repository: <https://github.com/klaussilveira/gitlist>
-* YunoHost documentation for this app: <https://yunohost.org/app_gitlist>
+* YunoHost Store: <https://apps.yunohost.org/app/gitlist>
 * Report a bug: <https://github.com/YunoHost-Apps/gitlist_ynh/issues>
 
 ## Developer info
