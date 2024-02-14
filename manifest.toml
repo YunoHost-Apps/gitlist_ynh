@@ -7,7 +7,7 @@ description.fr = "Visualiseur de référentiel git élégant et moderne"
 
 version = "2.0.0~ynh4"
 
-maintainers = ["eric_G"]
+maintainers = []
 
 [upstream]
 license = "BSD-3-Clause"
