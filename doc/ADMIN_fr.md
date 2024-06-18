@@ -1,1 +1,1 @@
-Répertoires Git par défaut : `__DATA_DIR__`
+Répertoires Git par défaut : `__DATA_DIR__` (this can be changed in the `__INSTALL_DIR__config.yaml` file)

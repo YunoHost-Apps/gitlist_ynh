@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install GitList with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install GitList quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -29,7 +29,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 - Repository statistics
 
 
-**Shipped version:** 2.0.0~ynh4
+**Shipped version:** 2.0.0~ynh5
 
 ## Screenshots
 
