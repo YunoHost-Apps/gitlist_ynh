@@ -37,11 +37,13 @@ ram.runtime = "50M"
     default = "visitors"
 
 [resources]
-    [resources.sources.main]
-    url = "https://github.com/klaussilveira/gitlist/releases/download/2.0.0/gitlist-2.0.0.zip"
-    sha256 = "06df38598c7e6f8ceb62e09efc0849960dc8f8e4a8a6f4719624c82e5a21fdf7"
-    in_subdir = false
-    autoupdate.strategy = "latest_github_release"
+
+    [resources.sources]
+        [resources.sources.main]
+        url = "https://github.com/klaussilveira/gitlist/releases/download/2.0.0/gitlist-2.0.0.zip"
+        sha256 = "06df38598c7e6f8ceb62e09efc0849960dc8f8e4a8a6f4719624c82e5a21fdf7"
+        in_subdir = false
+        autoupdate.strategy = "latest_github_release"
 
     [resources.system_user]
 
