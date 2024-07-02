@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # GitList YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/gitlist.svg)](https://dash.yunohost.org/appci/app/gitlist) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/gitlist.svg)](https://ci-apps.yunohost.org/ci/apps/gitlist/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
 
 [![Instalatu GitList YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 

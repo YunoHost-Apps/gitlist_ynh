@@ -5,7 +5,7 @@
 
 # YunoHost 上的 GitList
 
-[![集成程度](https://dash.yunohost.org/integration/gitlist.svg)](https://dash.yunohost.org/appci/app/gitlist) ![工作状态](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/gitlist.svg)](https://ci-apps.yunohost.org/ci/apps/gitlist/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
 
 [![使用 YunoHost 安装 GitList](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 

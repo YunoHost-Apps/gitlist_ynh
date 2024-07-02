@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # GitList para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/gitlist.svg)](https://dash.yunohost.org/appci/app/gitlist) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/gitlist.svg)](https://ci-apps.yunohost.org/ci/apps/gitlist/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/gitlist.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/gitlist.maintain.svg)
 
 [![Instalar GitList con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=gitlist)
 
