@@ -28,7 +28,7 @@ GitList est une interface Web élégante et moderne permettant d'interagir avec 
 - Mise en évidence de la syntaxe via CodeMirror ou Ace
 - Statistiques du référentiel
 
-**Version incluse :** 2.0.0~ynh5
+**Version incluse :** 2.0.0~ynh6
 
 ## Captures d’écran
 

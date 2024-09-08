@@ -29,7 +29,7 @@ GitList is an elegant and modern web interface for interacting with multiple git
 - Repository statistics
 
 
-**分发版本：** 2.0.0~ynh5
+**分发版本：** 2.0.0~ynh6
 
 ## 截图
 
